@@ -972,7 +972,7 @@ void Kembali()
 
 void Menu_Salah(){
     system("cls");
-    cout << "Tolong pilih angka 1, 2 dan 3 ";
+    cout << "Tolong pilih angka yang ada ";
 }
 
 void Simpan_Pesanan()
